@@ -81,9 +81,6 @@ base de datos postgres, código backend java con vertx y hazelcast. El front es 
 - Integración con Vertx
 
 
----
-
---
 ### Comparativo de costos, tiempos y recursos en un esquema de escritura de código utilizando "Agile Code Generation":
 
 #### 1. Costos reducidos de desarrollo
