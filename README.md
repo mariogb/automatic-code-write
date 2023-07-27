@@ -1,5 +1,5 @@
 
-# Generación rápida de soluciones y productos con "Agile Code Generation"
+# Desarrollo rápido de soluciones y productos con "Agile Code Generation"
 
 Un mecanismo que permita a partir de un modelo generar la infraestructura de código necesaria para obtener un producto funcional.  
 
