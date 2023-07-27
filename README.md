@@ -1,87 +1,15 @@
 
-# Generación rápida de soluciones y productos
+# Generación rápida de soluciones y productos con "Agile Code Generation"
 
 Un mecanismo que permita a partir de un modelo generar la infraestructura de código necesaria para obtener un producto funcional.  
 
 Se ingresa un modelo y se obtiene un sistema listo para funcionar con 
 base de datos postgres, código backend java con vertx y hazelcast. El front es con Vue,  y es génerico para administrar los catálogos de información. 
 
+- [Comparativo de costos](comparativo_costos.md).
+- [Elementos de un proyecto de software](elementos_proyecto_software.md)
 
-
-## Elementos de un proyecto de software
-
-### Funcionalidades
-- Listado de registros
-- Ordenación de registros listados
-- Filtros de registros
-- Importar desde Excel
-- Exportar a Excel
-- Paginación de registros
-- Creación de registros
-- Edición de registros
-
-### Análisis
-- Anális funcional
-- Análisis técnico
-- Historias de Usuario
-
-### Modelado de la solución
-- Modelo de datos
-- Base de datos
-- Entidades de Dominio
-- Controladores y End Points
-- Exponer servicios web REST
-- Servicios para cada una de las entidades de dominio
-- Autenticación y Autorización
-- Interfaz de usuario
-- Ingreso a sistema
-- Listado, captura, edición, filtrado, ordenación, importar, exportar, adjuntar archivos
-- Listado y acceso a la información basado en roles y membresías
-
-#### SQL
-
-- Instrucción DDL para crear la tabla
-- Instrucción SQL para consultas
-- Instrucción SQL para guardar un registro
-- Instrucción SQL para actualizar un registro
-- Instrucción SQL para eliminar un registro
-- Creación de Indices
-- Creación de indices foraneos
-
-#### JAVA
-- Clase Java para representar la tabla (x num entidades)
-- Clase Java para servicios (x número de entidades)
-- Clase Java para gestionar autorizacióm
-- Clase Java para exponer funcionalidades en API REST
-
-
-### Front (HTML/Css/Js)
-
-- Pantalla de autorización
-- Pantalla para listar, filtar, ordenar, agregar, editar, borrar, importar, exportar y adjuntar archivos
-
-
-
-
-
-### Ventajas de Vertx
-- Escalabilidad: 
-- Rendimiento
-- Facilidad de desarrollo
-- Listo para Cluster
-- Bus de Eventos
-- Integración con Hazelcast
-
-### Ventajas de Hazelcast
-- Cache distribuida
-- Mapas distribuidos
-- Listas distribuidas
-- Colas distribuidas
-- Bloqueos distribuidos
-- Integración con Vertx
-
-
-### Comparativo de costos, tiempos y recursos en un esquema de escritura de código utilizando "Agile Code Generation":
+## Comparativo de costos, tiempos y recursos en un esquema de escritura de código utilizando "Agile Code Generation":
 
 #### 1. Costos reducidos de desarrollo
 La generación automática de código en un esquema de Agile Code Generation permite ahorrar costos en el desarrollo de software. Al automatizar parte del proceso de escritura de código, se reduce la necesidad de contratar desarrolladores para tareas repetitivas y se optimiza el uso del tiempo y los recursos disponibles.
@@ -287,6 +215,23 @@ Es importante tener en cuenta que el ahorro de costos, tiempos y recursos puede 
 4. Implementación y desarrollo iterativo
 5. Validación y pruebas
 6. Mantenimiento y evolución
+
+
+### Ventajas de Vertx
+- Escalabilidad: 
+- Rendimiento
+- Facilidad de desarrollo
+- Listo para Cluster
+- Bus de Eventos
+- Integración con Hazelcast
+
+### Ventajas de Hazelcast
+- Cache distribuida
+- Mapas distribuidos
+- Listas distribuidas
+- Colas distribuidas
+- Bloqueos distribuidos
+- Integración con Vertx
 
 
 
