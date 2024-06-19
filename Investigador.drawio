@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T22:55:59.121Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="zm9ALFuOrIBC_YbMJSjC" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T23:02:40.614Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="MRLEuiugjCzZoNW4xjLd" version="24.5.5" type="github">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1912" dy="1059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -306,12 +306,6 @@
         </mxCell>
         <mxCell id="Z7vsen4MkyStElyQ_sz2-230" value="Número de productos o Actividad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7026571954dc6520-1">
           <mxGeometry x="830" y="690" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7026571954dc6520-14" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="700" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7026571954dc6520-12" value="Search" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="1240" y="650" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z7vsen4MkyStElyQ_sz2-161" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1440" y="230" width="1120" height="820" as="geometry" />
@@ -700,7 +694,7 @@
         <mxCell id="Z7vsen4MkyStElyQ_sz2-367" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.scroll_(vertical);fillColor=#a0a0a0;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-299">
           <mxGeometry x="917" y="490" width="6" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="Z7vsen4MkyStElyQ_sz2-344" value="el nombre de la actividad" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-344" value="el nombre de la presentación o evento" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
           <mxGeometry width="800" height="30" relative="1" as="geometry">
             <mxPoint x="190" y="2519" as="offset" />
           </mxGeometry>
@@ -714,6 +708,111 @@
           <mxGeometry width="260" height="40" relative="1" as="geometry">
             <mxPoint x="193" y="2556" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-368" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="2000" width="1120" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-369" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-368">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-370" value="https://reporte.ib.unam.mx" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-368">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-371" value="Técnico Académico" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontFamily=Verdana" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-368">
+          <mxGeometry x="30" y="140" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-372" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-368">
+          <mxGeometry y="310" width="1050" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-373" value="Actividades Generales" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-368">
+          <mxGeometry x="20" y="320" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-374" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#444444;strokeColor=none;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-368">
+          <mxGeometry x="20" y="245" width="1070" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-375" value="&lt;font color=&quot;#ceff0a&quot;&gt;Actualización o capacitación&lt;br&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-374">
+          <mxGeometry x="230" width="267.50000000000006" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-376" value="&lt;font color=&quot;#ceff0a&quot;&gt;Reconocimiento a la labor académica&lt;br&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fontStyle=1;fillColor=none;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-374">
+          <mxGeometry x="25.997252747252787" width="182.25274725274727" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-377" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#33b5e5;strokeColor=none;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-376">
+          <mxGeometry y="27" width="182.25274725274727" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-378" value="Participacion institucional y actividades de la ..." style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-374">
+          <mxGeometry x="480" width="393.27" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-379" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-374">
+          <mxGeometry x="802.5" width="267.50000000000006" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-380" value="" style="shape=line;strokeColor=#ffffff;direction=south;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-374">
+          <mxGeometry x="760.5675675675677" y="5" width="57.837837837837846" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-381" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#eeeeee;strokeColor=none;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-368">
+          <mxGeometry x="380" y="340" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-382" value="Extendido" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#666666;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-381">
+          <mxGeometry x="200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-383" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#666666;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-381">
+          <mxGeometry x="165.00000000000003" width="82.50000000000001" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-384" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#666666;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-381">
+          <mxGeometry x="247.5" width="82.50000000000001" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-385" value="Tabla Capturados" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fontStyle=1;fillColor=#44c5f5;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-381">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-386" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#33b5e5;strokeColor=none;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-385">
+          <mxGeometry y="27" width="140" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-387" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#eeeeee;strokeColor=none;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-368">
+          <mxGeometry x="380" y="170" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-388" value="Especializadas" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#666666;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-387">
+          <mxGeometry x="10" width="77.76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-389" value="Generales" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fontStyle=1;fillColor=#44c5f5;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-387">
+          <mxGeometry x="100" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-390" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#33b5e5;strokeColor=none;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-389">
+          <mxGeometry y="27" width="80" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-391" value="RESUMEN" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#666666;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-368">
+          <mxGeometry x="590" y="170" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-392" value="Actualización o capacitación" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-368">
+          <mxGeometry x="90" y="350" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-414" value="&lt;hr id=&quot;null&quot; style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;span&gt;Participación en comités científicos, editoriales, evaluadores, jurado de concursos.&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;hr id=&quot;null&quot; style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;hr id=&quot;null&quot; style=&quot;text-align: left&quot;&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=top;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-368">
+          <mxGeometry x="32" y="390" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-415" value="el nombre de la actividad" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-368">
+          <mxGeometry x="26" y="480" width="800" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-416" value="Nombre de la Actividad" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-368">
+          <mxGeometry x="30" y="450" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-417" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-368">
+          <mxGeometry x="26" y="546" width="800" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-418" value="Descripción" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-368">
+          <mxGeometry x="26" y="510" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-419" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-368">
+          <mxGeometry x="26" y="624" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-420" value="Autoevaluación" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-368">
+          <mxGeometry x="26" y="590" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-421" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-368">
+          <mxGeometry x="26" y="700" width="800" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-422" value="Justificación" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-368">
+          <mxGeometry x="32" y="670" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7vsen4MkyStElyQ_sz2-423" value="Guardar" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="Z7vsen4MkyStElyQ_sz2-368">
+          <mxGeometry x="640" y="780" width="86" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
