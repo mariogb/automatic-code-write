@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T16:51:33.616Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.5.5" etag="aTfymjEZuh_a7me7D_6H" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T17:19:16.263Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="m6NlMo4mJwiScFbomFZN" version="24.5.5" type="github">
   <diagram name="Page-1" id="NhDz3uZGCUFa12JibLDZ">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VyvEOrLl0v56BiKA6V6j-1" value="Proyecto de Investigación" style="swimlane;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="550" y="150" width="290" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="VyvEOrLl0v56BiKA6V6j-3" value="Investigador" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="690" y="600" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VyvEOrLl0v56BiKA6V6j-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="VyvEOrLl0v56BiKA6V6j-5" target="VyvEOrLl0v56BiKA6V6j-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VyvEOrLl0v56BiKA6V6j-5" value="Producto o Actividad" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.book;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="190" height="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VyvEOrLl0v56BiKA6V6j-6" value="Producto o Actividad" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.book;" vertex="1" parent="1">
+          <mxGeometry x="160" y="590" width="190" height="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VyvEOrLl0v56BiKA6V6j-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.995;exitY=0.468;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VyvEOrLl0v56BiKA6V6j-6" target="VyvEOrLl0v56BiKA6V6j-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="500" as="sourcePoint" />
+            <mxPoint x="450" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VyvEOrLl0v56BiKA6V6j-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="VyvEOrLl0v56BiKA6V6j-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="560" as="sourcePoint" />
+            <mxPoint x="680" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="480" />
+              <mxPoint x="780" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VyvEOrLl0v56BiKA6V6j-16" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1" source="VyvEOrLl0v56BiKA6V6j-5" target="VyvEOrLl0v56BiKA6V6j-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="560" as="sourcePoint" />
+            <mxPoint x="450" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="403" />
+              <mxPoint x="610" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VyvEOrLl0v56BiKA6V6j-17" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity" vertex="1" parent="1">
+          <mxGeometry x="150" y="110" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VyvEOrLl0v56BiKA6V6j-18" value="IB" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="VyvEOrLl0v56BiKA6V6j-17">
+          <mxGeometry width="30" height="30" relative="1" as="geometry">
+            <mxPoint x="10" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VyvEOrLl0v56BiKA6V6j-19" value="Proyecto de Investigación" style="swimlane;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="880" y="150" width="290" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
